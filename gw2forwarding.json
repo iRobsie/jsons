@@ -408,11 +408,11 @@
   {
    "Name": "Teh's Trails - Map Completion NEW EXPANSION",
    "Description": "A pack tailored for speedrunning map completion. It utilizes all mounts, waypoints, and a multitude of markers to help you complete maps as fast as possible. The current map comp world record of 6h48m uses this pack! Includes trails for Core Tyria and EoD, with HoT and PoF in progress.",
-   "Download": "https://github.com/xrandox/TehsTrails/raw/dev_SotO/TehsTrails/TehsTrails.taco",
+   "Download": "https://github.com/iRobsie/jsons/blob/main/TehsTrailsBeta.taco",
    "Info": "https://github.com/xrandox/TehsTrails/wiki",
    "FileName": "TehsTrails.taco",
    "Categories": "Map Completion, Lanterns",
-   "Version": "https://github.com/xrandox/TehsTrails/raw/dev_SotO/TehsTrails/TehsTrails.taco",
+   "Version": "https://github.com/iRobsie/jsons/blob/main/TehsTrailsBeta.taco",
    "Size": 3.3531618,
    "TotalDownloads": 69420,
    "AuthorName": "xTeh",
